@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently learning how to use flex and bison, with an emphasis on linguistic applications.
 <!--
 **drmjj/drmjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
